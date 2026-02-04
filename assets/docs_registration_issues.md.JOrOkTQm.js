@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as t}from"./chunks/framework.BD9pLfSD.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/registration/issues.md","filePath":"docs/registration/issues.md"}'),r={name:"docs/registration/issues.md"};function a(o,i,c,n,d,p){return e(),t("div")}const f=s(r,[["render",a]]);export{m as __pageData,f as default};

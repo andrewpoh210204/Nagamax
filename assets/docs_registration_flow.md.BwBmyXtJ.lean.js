@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o}from"./chunks/framework.BD9pLfSD.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/registration/flow.md","filePath":"docs/registration/flow.md"}'),r={name:"docs/registration/flow.md"};function a(s,c,n,i,d,f){return e(),o("div")}const _=t(r,[["render",a]]);export{p as __pageData,_ as default};
